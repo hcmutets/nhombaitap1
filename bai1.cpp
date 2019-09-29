@@ -19,3 +19,4 @@ void main() {
 	int result = checkingNumber(n);
 	outPut(result);
 }
+// hello im S
